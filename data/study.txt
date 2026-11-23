@@ -1,0 +1,200 @@
+User: what is the capital of france
+Bot: The capital of France is Paris.
+
+User: what is the capital of india
+Bot: The capital of India is New Delhi.
+
+User: what is the capital of japan
+Bot: The capital of Japan is Tokyo.
+
+User: what is the capital of australia
+Bot: The capital of Australia is Canberra.
+
+User: what is the capital of canada
+Bot: The capital of Canada is Ottawa.
+
+User: what is the capital of germany
+Bot: The capital of Germany is Berlin.
+
+User: what is the capital of italy
+Bot: The capital of Italy is Rome.
+
+User: what is the largest ocean
+Bot: The Pacific Ocean is the largest and deepest ocean on Earth.
+
+User: what is the largest planet
+Bot: Jupiter is the largest planet in our solar system.
+
+User: which planet is closest to the sun
+Bot: Mercury is the closest planet to the Sun.
+
+User: how many planets are there
+Bot: There are eight planets in our solar system.
+
+User: what is the red planet
+Bot: Mars is called the red planet because of the iron oxide in its soil.
+
+User: what is the sun made of
+Bot: The Sun is mostly hydrogen and helium, and it produces energy by nuclear fusion.
+
+User: what is gravity
+Bot: Gravity is the force that pulls objects with mass towards each other.
+
+User: what is photosynthesis
+Bot: Photosynthesis is how plants use sunlight, water, and carbon dioxide to make food.
+
+User: what is water made of
+Bot: Water is made of two hydrogen atoms and one oxygen atom, written as H two O.
+
+User: what is the boiling point of water
+Bot: Water boils at one hundred degrees Celsius at normal sea level pressure.
+
+User: how many bones are in the human body
+Bot: An adult human body has two hundred and six bones.
+
+User: what is the largest organ in the human body
+Bot: The skin is the largest organ in the human body.
+
+User: how many continents are there
+Bot: There are seven continents on Earth.
+
+User: what is the tallest mountain
+Bot: Mount Everest is the tallest mountain above sea level.
+
+User: what is the longest river
+Bot: The Nile and the Amazon are the two longest rivers, and the exact ranking is debated.
+
+User: what is the speed of light
+Bot: Light travels at about three hundred thousand kilometres per second in a vacuum.
+
+User: who invented the telephone
+Bot: Alexander Graham Bell is credited with inventing the telephone.
+
+User: who wrote romeo and juliet
+Bot: William Shakespeare wrote Romeo and Juliet.
+
+User: what is 2 plus 2
+Bot: Two plus two is four.
+
+User: what is 5 times 6
+Bot: Five times six is thirty.
+
+User: what is 10 divided by 2
+Bot: Ten divided by two is five.
+
+User: what is the square root of 81
+Bot: The square root of eighty one is nine.
+
+User: what is the square root of 144
+Bot: The square root of one hundred and forty four is twelve.
+
+User: what is 7 squared
+Bot: Seven squared is forty nine.
+
+User: what is pi
+Bot: Pi is the ratio of a circle's circumference to its diameter, about three point one four.
+
+User: what is a prime number
+Bot: A prime number is a whole number greater than one that is divisible only by one and itself.
+
+User: is 17 a prime number
+Bot: Yes, seventeen is prime because only one and seventeen divide it evenly.
+
+User: what is a fraction
+Bot: A fraction represents a part of a whole, written as one number over another.
+
+User: what is a percentage
+Bot: A percentage is a fraction out of one hundred. Fifty percent means fifty out of one hundred.
+
+User: what is algebra
+Bot: Algebra uses letters to stand for unknown numbers and rules to solve for them.
+
+User: what is a triangle
+Bot: A triangle is a shape with three sides and three angles that add up to one hundred and eighty degrees.
+
+User: what is the area of a rectangle
+Bot: The area of a rectangle is its length multiplied by its width.
+
+User: what is the area of a circle
+Bot: The area of a circle is pi multiplied by the radius squared.
+
+User: what is mean in statistics
+Bot: The mean is the sum of all values divided by the number of values.
+
+User: what is median
+Bot: The median is the middle value when the numbers are sorted in order.
+
+User: what is probability
+Bot: Probability is a number between zero and one that describes how likely an event is.
+
+User: how do i study for exams
+Bot: Study in short focused sessions, test yourself often, and review the topics you get wrong.
+
+User: How do I study for exams?
+Bot: Study in short focused sessions, test yourself often, and review the topics you get wrong.
+
+User: how do i remember what i study
+Bot: Space out your revision over several days and explain the ideas out loud in your own words.
+
+User: what is active recall
+Bot: Active recall is testing yourself instead of rereading, which strengthens memory much more.
+
+User: what is the pomodoro technique
+Bot: Work in twenty five minute blocks with five minute breaks, then take a longer break after four rounds.
+
+User: how do i stop procrastinating
+Bot: Start with a task that takes two minutes, remove distractions, and give yourself a small reward.
+
+User: how do i take notes
+Bot: Write short summaries in your own words rather than copying sentences word for word.
+
+User: how do i focus better
+Bot: Put your phone away, work on one task at a time, and keep the session short enough to finish.
+
+User: what is a good study schedule
+Bot: A balanced schedule has fixed study blocks, short breaks, exercise, and a proper sleep routine.
+
+User: how do i prepare for a presentation
+Bot: Rehearse out loud, keep the slides simple, and prepare for two or three likely questions.
+
+User: how do i write an essay
+Bot: Start with a clear argument, support each point with evidence, and edit the draft before submitting.
+
+User: how do i improve my english
+Bot: Read a little every day, write short paragraphs, and speak with a friend without fear of mistakes.
+
+User: how do i learn a new skill
+Bot: Practise a little daily, watch people who are good at it, and build something small with the skill.
+
+User: what is a good project idea
+Bot: Build something you would actually use, keep the scope small, and finish a working version first.
+
+User: what is a college project
+Bot: A college project is a small piece of work that shows you can apply what you learned.
+
+User: how do i present my project
+Bot: Explain the problem, show a live demo, describe how it works, and be honest about the limits.
+
+User: what is plagiarism
+Bot: Plagiarism is presenting someone else's work or ideas as your own without credit.
+
+User: how do i cite a source
+Bot: Give the author, title, publication, and year, in the citation style your college requires.
+
+User: what is a hypothesis
+Bot: A hypothesis is a testable statement that you can check with an experiment.
+
+User: what is the scientific method
+Bot: Observe, ask a question, form a hypothesis, test it, and draw conclusions from the results.
+
+User: what is a variable in an experiment
+Bot: A variable is any factor that can change. Keep all but the one you are testing the same.
+
+User: what is the difference between accuracy and precision
+Bot: Accuracy is how close you are to the true value, and precision is how close your measurements are to each other.
+
+User: what is the difference between data and information
+Bot: Data is raw numbers or text, and information is data that has been organised and understood.
+
+User: what is the difference between hardware and software
+Bot: Hardware is the physical machine, and software is the instructions that run on it.

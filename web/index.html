@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Nano GPT &middot; a tiny chat model built from scratch</title>
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <main class="app">
+    <header class="topbar">
+      <div class="brand">
+        <div class="logo">n</div>
+        <div>
+          <h1>Nano GPT</h1>
+          <p class="subtitle">a tiny transformer, written from scratch</p>
+        </div>
+      </div>
+      <div class="actions">
+        <label class="control">
+          <span>temp <b id="tempValue">0.3</b></span>
+          <input id="temperature" type="range" min="0.2" max="1.4" step="0.05" value="0.3" />
+        </label>
+        <label class="control">
+          <span>top-k <b id="topkValue">40</b></span>
+          <input id="topk" type="range" min="1" max="120" step="1" value="40" />
+        </label>
+        <button id="clear" class="ghost" type="button">New chat</button>
+      </div>
+    </header>
+
+    <section id="messages" class="messages" aria-live="polite">
+      <div class="empty" id="empty">
+        <h2>Say hello to a model with 0.8M parameters</h2>
+        <p>Every reply below is generated one character at a time by a small GPT trained from scratch on this machine.</p>
+        <div class="suggestions">
+          <button type="button" data-prompt="who are you">who are you</button>
+          <button type="button" data-prompt="what is a transformer">what is a transformer</button>
+          <button type="button" data-prompt="how do i study for exams">how do i study for exams</button>
+          <button type="button" data-prompt="tell me a joke">tell me a joke</button>
+        </div>
+      </div>
+    </section>
+
+    <form id="composer" class="composer">
+      <textarea id="input" rows="1" placeholder="Message Nano GPT..." autocomplete="off"></textarea>
+      <button id="send" type="submit" aria-label="Send message">
+        <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true">
+          <path d="M4 12l16-8-6 16-2.5-6.5L4 12z" fill="currentColor" />
+        </svg>
+      </button>
+    </form>
+    <p class="disclaimer">Tiny educational model &middot; it predicts characters, it does not know facts</p>
+  </main>
+  <script src="/app.js"></script>
+</body>
+</html>

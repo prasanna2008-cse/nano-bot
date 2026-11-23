@@ -1,0 +1,200 @@
+User: what is python
+Bot: Python is a popular programming language known for its simple and readable syntax.
+
+User: what is a variable
+Bot: A variable is a name that stores a value so you can use it later in your program.
+
+User: what is a list in python
+Bot: A list is an ordered collection of values written inside square brackets, like numbers equals one comma two comma three.
+
+User: how do i write a loop in python
+Bot: Use a for loop to repeat code. For example, for i in range of five, print i.
+
+User: what is a function
+Bot: A function is a reusable block of code that takes inputs and returns an output.
+
+User: what is a dictionary
+Bot: A dictionary stores key value pairs. You look up a value using its key instead of a number.
+
+User: what is a class
+Bot: A class is a blueprint for creating objects that bundle data and behaviour together.
+
+User: what is recursion
+Bot: Recursion is when a function calls itself to solve a smaller version of the same problem.
+
+User: what is a bug
+Bot: A bug is a mistake in a program that makes it behave differently from what you intended.
+
+User: what is debugging
+Bot: Debugging is the process of finding and fixing bugs in your code.
+
+User: what is an algorithm
+Bot: An algorithm is a step by step recipe for solving a problem.
+
+User: what is big o notation
+Bot: Big O describes how the running time of an algorithm grows as the input gets larger.
+
+User: what is a database
+Bot: A database is organised storage for data that can be searched and updated quickly.
+
+User: what is sql
+Bot: SQL is the language used to query and modify data in a relational database.
+
+User: what is an api
+Bot: An API is a defined way for two programs to talk to each other.
+
+User: what is git
+Bot: Git is a version control system that records changes to your files so you can undo mistakes and work with others.
+
+User: what is github
+Bot: GitHub is a website that hosts git repositories and helps people collaborate on code.
+
+User: how do i make a git commit
+Bot: Stage your files with git add, then save a snapshot with git commit and a clear message.
+
+User: how do i push to github
+Bot: Add the remote repository with git remote add origin, then upload your commits with git push.
+
+User: what is a merge conflict
+Bot: A merge conflict happens when two branches change the same lines and git needs you to choose.
+
+User: what is html
+Bot: HTML is the markup language that gives structure to a web page.
+
+User: what is css
+Bot: CSS controls the appearance of a web page, including colors, spacing, and fonts.
+
+User: what is javascript
+Bot: JavaScript is the programming language that makes web pages interactive in the browser.
+
+User: what is a neural network
+Bot: A neural network is a stack of simple mathematical layers that learn patterns from data.
+
+User: what is deep learning
+Bot: Deep learning is machine learning with neural networks that have many layers.
+
+User: what is a transformer
+Bot: A transformer is a neural network that uses attention to look at all positions in a sequence at once.
+
+User: What is a transformer?
+Bot: A transformer is a neural network that uses attention to look at all positions in a sequence at once.
+
+User: how does chatgpt work
+Bot: It is a large transformer trained to predict the next token, then tuned to follow instructions.
+
+User: what is a token
+Bot: A token is a small piece of text, such as a word, a part of a word, or a single character.
+
+User: what is gradient descent
+Bot: Gradient descent updates the weights of a model in the direction that reduces the loss.
+
+User: what is a learning rate
+Bot: The learning rate controls how large each weight update is during training.
+
+User: what is overfitting
+Bot: Overfitting is when a model memorises the training data and fails on new examples.
+
+User: what is training data
+Bot: Training data is the collection of examples a model learns patterns from.
+
+User: what is loss
+Bot: Loss is a number that measures how wrong the model's predictions are. Lower is better.
+
+User: write a python program to print hello world
+Bot: Print the text hello world inside quotes. It is the first program most people write.
+
+User: write a program to add two numbers
+Bot: Read two numbers from the user, add them, and print the result.
+
+User: how do i reverse a string in python
+Bot: Slicing with a step of minus one reverses a string in a single expression.
+
+User: how do i check if a number is even
+Bot: Use the modulo operator with two. If the remainder is zero, the number is even.
+
+User: what is a library in programming
+Bot: A library is reusable code written by someone else that you can import into your program.
+
+User: what is open source
+Bot: Open source means the source code is public, so anyone can read, use, and improve it.
+
+User: what is a compiler
+Bot: A compiler translates source code into machine code before the program runs.
+
+User: what is an interpreter
+Bot: An interpreter runs source code line by line instead of translating it all at once.
+
+User: what is a server
+Bot: A server is a program that waits for requests and sends back responses.
+
+User: what is localhost
+Bot: Localhost means this computer. It is the address a local server listens on.
+
+User: what is a port
+Bot: A port is a numbered channel on a computer that a network program listens to.
+
+User: what is json
+Bot: JSON is a simple text format for exchanging structured data between programs.
+
+User: what is a framework
+Bot: A framework is a collection of tools and rules that gives structure to your application.
+
+User: what is an ide
+Bot: An IDE is an editor with extra tools such as debugging, autocomplete, and project navigation.
+
+User: how do i learn to code
+Bot: Pick one language, build small projects, read other people's code, and practise a little every day.
+
+User: which language should i learn first
+Bot: Python is a friendly first language because the syntax is close to plain English.
+
+User: what is machine learning
+Bot: Machine learning is teaching computers to find patterns in data instead of writing rules by hand.
+
+User: what is artificial intelligence
+Bot: Artificial intelligence is the field of building systems that perform tasks that normally need human thinking.
+
+User: what is numpy
+Bot: NumPy is a Python library for fast numerical arrays and vector operations.
+
+User: what is pytorch
+Bot: PyTorch is a Python library for building and training neural networks with automatic gradients.
+
+User: what is a tensor
+Bot: A tensor is a multidimensional array of numbers, the basic data type in deep learning.
+
+User: what is a gpu
+Bot: A GPU is a processor with thousands of small cores, which makes neural network maths much faster.
+
+User: what is a checkpoint
+Bot: A checkpoint is a saved copy of the model weights after some amount of training.
+
+User: what does batch size mean
+Bot: Batch size is the number of examples the model looks at before updating its weights once.
+
+User: what is an epoch
+Bot: An epoch is one full pass over the entire training dataset.
+
+User: what is dropout
+Bot: Dropout randomly turns off some neurons during training to reduce overfitting.
+
+User: what is softmax
+Bot: Softmax turns a list of raw scores into probabilities that sum to one.
+
+User: what is attention
+Bot: Attention lets each token decide which other tokens are worth looking at when building its representation.
+
+User: what is a resume
+Bot: A resume is a one or two page summary of your education, skills, and experience.
+
+User: how do i prepare for a coding interview
+Bot: Practise easy problems first, explain your thinking out loud, and review data structures.
+
+User: what is an internship
+Bot: An internship is short term work experience, usually for students, that builds real skills.
+
+User: what makes a good project
+Bot: A clear problem, a working demo, honest documentation, and a small scope done well.
+
+User: how do i write a readme
+Bot: Explain what the project does, how to install it, how to run it, and what is still unfinished.

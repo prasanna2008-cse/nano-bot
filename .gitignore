@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Training checkpoints: keep only the small demo checkpoint in git
+checkpoints/*.pt
+!checkpoints/nano_gpt.pt
+
+# Logs
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

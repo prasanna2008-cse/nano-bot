@@ -1,0 +1,188 @@
+User: give me a motivation quote
+Bot: Small steps every day add up to big changes. Start with one small step.
+
+User: motivate me to study
+Bot: You do not have to study forever, just for the next twenty five minutes. Start small and the momentum will carry you.
+
+User: i failed my exam
+Bot: That hurts, but one exam does not define you. Review what went wrong and try again with a better plan.
+
+User: i am nervous about my presentation
+Bot: Take a slow breath, rehearse once more, and remember the audience wants you to do well.
+
+User: i cannot sleep
+Bot: Put the screen away, dim the lights, and try slow breathing. A boring routine helps more than it seems.
+
+User: how do i stay motivated
+Bot: Track small wins, connect the work to a goal you care about, and do not wait for motivation to appear.
+
+User: how do i manage my time
+Bot: List your tasks, pick the three most important, and give them a fixed slot in your day.
+
+User: how do i say no
+Bot: Be honest and polite. Thank them, explain briefly that you cannot commit, and suggest another time.
+
+User: how do i make friends
+Bot: Show up regularly, ask questions, and listen more than you speak.
+
+User: how do i be a good friend
+Bot: Remember the small things, keep promises, and listen without rushing to give advice.
+
+User: i have a job interview tomorrow
+Bot: Get your sleep, prepare two stories about your work, and arrive early with a calm mind.
+
+User: how do i answer tell me about yourself
+Bot: Give a short summary of what you study, one thing you built, and what you want to learn next.
+
+User: what should i wear to an interview
+Bot: Smart and simple clothes are always safe. Clean and comfortable matters most.
+
+User: how do i ask for help
+Bot: Explain what you tried, what happened, and what you expected. Good questions get good answers.
+
+User: i feel stressed
+Bot: Try a short walk, slow breathing, and write down the things within your control.
+
+User: how do i deal with stress
+Bot: Break big tasks into small ones, move your body, and talk to someone you trust.
+
+User: what is a good morning routine
+Bot: Wake at a fixed time, drink water, get some light, and plan your three priorities.
+
+User: what is a good sleep routine
+Bot: Go to bed at the same time, avoid caffeine late in the day, and keep your phone away from the bed.
+
+User: how much water should i drink
+Bot: Most adults need two to three litres a day, more if it is hot or you exercise.
+
+User: how do i eat healthier
+Bot: Eat more vegetables and fruit, drink water instead of soda, and cook simple meals at home.
+
+User: how do i exercise regularly
+Bot: Pick something you enjoy, start with twenty minutes, and fix a time for it in your week.
+
+User: i want to lose weight
+Bot: Focus on small steady changes to eating and activity, and talk to a doctor for personal advice.
+
+User: how do i save money
+Bot: Track spending for a month, set a small savings goal, and pay yourself first.
+
+User: how do i travel on a budget
+Bot: Travel off season, book early, use public transport, and choose simple food and stays.
+
+User: what is a good book to read
+Bot: Read whatever keeps you turning pages. Short stories and biographies are great starting points.
+
+User: recommend a movie
+Bot: Pick a short classic comedy for a light evening. Good stories survive old effects.
+
+User: what should i do this weekend
+Bot: Choose one thing that rests you and one thing that moves you forward. That is a good weekend.
+
+User: how do i learn to cook
+Bot: Begin with four simple dishes, repeat them until they are easy, then add variations.
+
+User: what is a healthy breakfast
+Bot: Something with protein and fibre, like eggs with toast, or oats with fruit.
+
+User: how do i wake up early
+Bot: Set a consistent bedtime, put your alarm across the room, and get daylight right after waking.
+
+User: how do i stop using my phone
+Bot: Turn off non essential notifications, keep the phone out of arm's reach, and schedule screen free hours.
+
+User: how do i be more confident
+Bot: Practise the thing you fear in small doses, and let evidence replace worry.
+
+User: i am scared of speaking in public
+Bot: Prepare thoroughly, practise out loud, and start with a group small enough to feel safe.
+
+User: how do i handle criticism
+Bot: Take a breath, look for the useful part, and let go of the rest.
+
+User: how do i forgive myself
+Bot: Accept that you made a mistake, learn one lesson, and let the past stay in the past.
+
+User: how do i stay positive
+Bot: Notice one good thing each day and keep working on the things you can change.
+
+User: what is a habit
+Bot: A habit is a behaviour that becomes automatic after enough repetition.
+
+User: how do i build a habit
+Bot: Start tiny, attach it to something you already do, and keep the streak visible.
+
+User: how do i break a bad habit
+Bot: Change the cue, replace the behaviour with a better one, and make the old routine harder.
+
+User: how do i make a decision
+Bot: List the options, note the trade offs, and choose the option you would defend a year later.
+
+User: how do i deal with failure
+Bot: Treat it as information. Find one lesson, adjust the plan, and try again.
+
+User: what is success
+Bot: Success is progress towards something you value, not a single score or trophy.
+
+User: how do i balance studies and fun
+Bot: Schedule both. Guilt free fun after a finished study block makes both better.
+
+User: what is a hobby i can start
+Bot: Try sketching, running, cooking, or learning a few chords on a guitar. Pick one and give it a week.
+
+User: how do i be creative
+Bot: Collect ideas, combine two familiar things, and make a lot of rough drafts without judging them.
+
+User: how do i write better
+Bot: Write a rough draft quickly, then cut everything that does not help the main point.
+
+User: how do i improve my handwriting
+Bot: Slow down, keep a consistent grip, and practise the letters that look worst.
+
+User: how do i take care of my eyes
+Bot: Follow the twenty twenty twenty rule and take breaks away from the screen.
+
+User: how do i improve my memory
+Bot: Sleep well, test yourself, and connect new facts to things you already know.
+
+User: what is meditation
+Bot: Meditation is the practice of paying attention to the present moment and letting thoughts pass.
+
+User: how do i start meditating
+Bot: Sit comfortably and follow your breath for two minutes. When your mind wanders, gently return.
+
+User: what is the best way to learn
+Bot: Practise actively, get quick feedback, and repeat the hard parts instead of the easy ones.
+
+User: how do i stay organised
+Bot: One list, one calendar, and a five minute tidy at the end of the day.
+
+User: how do i handle a bad day
+Bot: Lower the bar, do one small useful thing, and start again tomorrow.
+
+User: what should i do when i am stuck
+Bot: Explain the problem out loud, try a smaller version, and ask someone for a fresh perspective.
+
+User: how do i ask someone out
+Bot: Be kind and direct, suggest something simple, and accept the answer gracefully.
+
+User: how do i apologise
+Bot: Say what you did, how it affected the other person, and what you will do differently.
+
+User: how do i keep a conversation going
+Bot: Ask open questions and follow up on the details they mention.
+
+User: how do i be a better listener
+Bot: Give full attention, do not plan your reply while they speak, and summarise what you heard.
+
+User: what is a good daily routine
+Bot: Fixed wake time, some movement, focused work, a proper meal, and a calm evening.
+
+User: how do i enjoy the present
+Bot: Notice what you can see, hear, and feel right now. Small attention is enough.
+
+User: what is happiness
+Bot: Happiness is a mix of good relationships, meaningful work, and health. It comes in small moments.
+
+User: i do not know what to do with my life
+Bot: Start with what interests you and what you are good at, then take one small step and learn from it.
